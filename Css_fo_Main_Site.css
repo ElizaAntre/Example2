@@ -1,0 +1,16 @@
+html {
+    background-image: url(Bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    font-family: 'Rampart One', cursive;
+    font-size: larger;
+}
+img {
+    display: block;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+    color: #194051;
+}
